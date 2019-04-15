@@ -5,7 +5,7 @@
 	Concoct
   Excogitate’ means ’Think deeply about a subject or question over a period of time’
 concoct is to devise or invent or cook up
-’nonplussed’ means confused. Hence, nonplussed is the most suitable contextual meaning for the given word.
+’nonplussed’ means confused. Hence, nonplussed is the most suitable contextual meaning for the flummoxed  word.
 # For his unsavory remarks on Martin L. King in the media, the minister faced libel charges from his descendants living in the USA.
 	Calumny
 	Perfidy
