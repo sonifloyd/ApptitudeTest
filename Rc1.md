@@ -87,17 +87,17 @@ after hooking them?
 
 For Qs(7-8): Choose the word which is MOST SIMILAR in meaning to the word printed in bold as used in the passage.
 
-7. Multitude
+7. Multitude//a large number of people or things
 1) Impoverished   
 2) Handful
 3) Acknowledged  
-4) Plenty
+4) Plenty//a large or sufficient amount or quantity; more than enough.
 5) Solitude
 
-8. Ubiquitous
+8. Ubiquitous//present, appearing, or found everywhere.
 (1) Quintessential   
 (2) Popular
-(3) Omnipresent  
+(3) Omnipresent  //
 (4) Simplified
 (5) Abnormal
 
@@ -108,12 +108,12 @@ For Qs (9-10): Choose the word which is MOST OPPOSITE in meaning to the word pri
 2) Pertinent 
 3) Cornered
 4) Rejected  
-5) Active
+5) Active//
 
 10. Delayed
 1) Perturbed        
 2) Popularised 
-3) Expedited
+3) Expedited//make (an action or process) happen sooner or be accomplished more quickly.
 4) Stabilised        
 5) Represse
 
