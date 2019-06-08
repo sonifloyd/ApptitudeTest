@@ -64,7 +64,7 @@ over privacy and security have kept E- Commerce from taking off.
 For Qs (6-8): Choose the word that is most nearly the SAME in meaning to the word as used in passage.
 
 6. Environment
-(1) provision   
+(1) provision //  
 (2) conditions  
 (3) circumstantial
 (4) department  
@@ -73,32 +73,33 @@ For Qs (6-8): Choose the word that is most nearly the SAME in meaning to the wor
 7. Browse
 (1) look through  
 (2) enjoy 
-(3) examine leisurely
+(3) examine leisurely//
 (4) nibble  
 (5) spend
 
-8. Modern
+8. Modern//relating to the present or recent times as opposed to the remote past.
 (1) gadget    
-(2) appliance  
+(2) appliance // a device or piece of equipment designed to perform a specific task.
 (3) device
 (4) apparatus  
 (5) equipment
 
 For Qs (9-10): Choose the word that is most nearly the OPPOSITE in meaning to the word as used in passage.
 
-9. Jeopardized
+9. Jeopardized//put (someone or something) into a situation in which there is a danger of loss, harm, or failure.
 (1) safe   
 (2) risked 
 (3) benefit
-(4) secure  
+(4) secure // 
 (5) endangered
 
-10. Peering
+10. Peering//the exchange of data directly between Internet service providers, rather than via the Internet.
+
 (1) leaning    
 (2) looking  
 (3) staring
 (4) peeking  
-(5) peeping
+(5) peeping//come gradually or partially into view.
 
 
 
